@@ -1,0 +1,6 @@
+{
+    "endpoint": "http://localhost:3000",
+    "maxRetries": 5,
+    "retryDelay": 2000,
+    "logLevel": "info"	
+}
